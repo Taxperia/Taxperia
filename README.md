@@ -27,37 +27,111 @@ My work usually starts from a simple question: **"Can this annoying repeated tas
 
 ## Featured Work
 
+<div align="center">
+
+<strong>Small tools, cleaner workflows, and Windows-focused experiments.</strong>
+
+</div>
+
 <table>
   <tr>
-    <td width="50%">
-      <h3>TaxClicker</h3>
-      <p>Windows desktop macro recorder and auto clicker built with Python and PySide6.</p>
+    <td width="50%" valign="top">
+      <h3 align="center">TaxClicker</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Desktop%20Automation-0EA5E9?style=flat-square" alt="Desktop Automation" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=qt&logoColor=white" alt="PySide6" />
+      </p>
       <a href="https://github.com/Taxperia/TaxClicker">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Taxperia&repo=TaxClicker&theme=tokyonight&hide_border=true" alt="TaxClicker repository card" />
       </a>
+      <p>
+        Windows desktop macro recorder and auto clicker for repeatable workflows.
+      </p>
+      <ul>
+        <li>Records and replays mouse/keyboard actions</li>
+        <li>Built as a practical PySide6 desktop utility</li>
+        <li>Useful for repetitive Windows tasks</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Taxperia/TaxClicker">
+          <img src="https://img.shields.io/badge/Open%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open TaxClicker repository" />
+        </a>
+      </p>
     </td>
-    <td width="50%">
-      <h3>TaxClip</h3>
-      <p>A simple, modern clipboard history app designed for fast everyday use.</p>
+    <td width="50%" valign="top">
+      <h3 align="center">TaxClip</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Productivity-22C55E?style=flat-square" alt="Productivity" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Clipboard-111827?style=flat-square" alt="Clipboard" />
+      </p>
       <a href="https://github.com/Taxperia/TaxClip">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Taxperia&repo=TaxClip&theme=tokyonight&hide_border=true" alt="TaxClip repository card" />
       </a>
+      <p>
+        A simple, modern clipboard history app designed for fast everyday use.
+      </p>
+      <ul>
+        <li>Keeps recent clipboard items close</li>
+        <li>Focuses on a clean, lightweight interface</li>
+        <li>Designed as a daily productivity helper</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Taxperia/TaxClip">
+          <img src="https://img.shields.io/badge/Open%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open TaxClip repository" />
+        </a>
+      </p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>windows-notch-overlay</h3>
-      <p>Electron-based dynamic notch overlay for Windows with quick controls, telemetry, alarms, search, and media state.</p>
+    <td width="50%" valign="top">
+      <h3 align="center">windows-notch-overlay</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Windows%20UX-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows UX" />
+        <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" />
+      </p>
       <a href="https://github.com/Taxperia/windows-notch-overlay">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Taxperia&repo=windows-notch-overlay&theme=tokyonight&hide_border=true" alt="windows-notch-overlay repository card" />
       </a>
+      <p>
+        Electron-based dynamic notch overlay for Windows with quick controls and live states.
+      </p>
+      <ul>
+        <li>Quick controls, telemetry, alarms, search, and media state</li>
+        <li>Turns desktop information into a compact overlay</li>
+        <li>Explores a more expressive Windows interface layer</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Taxperia/windows-notch-overlay">
+          <img src="https://img.shields.io/badge/Open%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open windows-notch-overlay repository" />
+        </a>
+      </p>
     </td>
-    <td width="50%">
-      <h3>awesome-codex-skills</h3>
-      <p>A curated list of practical Codex skills for automating workflows across the Codex CLI and API.</p>
-      <a href="https://github.com/Taxperia/awesome-codex-skills">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Taxperia&repo=awesome-codex-skills&theme=tokyonight&hide_border=true" alt="awesome-codex-skills repository card" />
+    <td width="50%" valign="top">
+      <h3 align="center">TaxVideoConvert</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Media%20Tool-EC4899?style=flat-square" alt="Media Tool" />
+        <img src="https://img.shields.io/badge/Video%20Workflow-8B5CF6?style=flat-square" alt="Video Workflow" />
+        <img src="https://img.shields.io/badge/Export-22C55E?style=flat-square" alt="Export" />
+      </p>
+      <a href="https://github.com/Taxperia/TaxVideoConvert">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Taxperia&repo=TaxVideoConvert&theme=tokyonight&hide_border=true" alt="TaxVideoConvert repository card" />
       </a>
+      <p>
+        Preview, trim, and export online videos in the desired format and quality.
+      </p>
+      <ul>
+        <li>Built around practical video preparation workflows</li>
+        <li>Helps preview and trim before exporting</li>
+        <li>Focused on fast media conversion tasks</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Taxperia/TaxVideoConvert">
+          <img src="https://img.shields.io/badge/Open%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open TaxVideoConvert repository" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
