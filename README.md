@@ -150,7 +150,7 @@ My work usually starts from a simple question: **"Can this annoying repeated tas
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) -->
 
-<img src="https://skillicons.dev/icons?i=java,cs,python,dotnet,spring,html,css,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,cs,python,dotnet,discordjs,html,css,js,electron,bootstrap&theme=dark" />
 
 ### Desktop & App Development
 
@@ -159,7 +159,11 @@ My work usually starts from a simple question: **"Can this annoying repeated tas
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white) -->
 
-<img src="https://skillicons.dev/icons?i=postgresql,docker,git,github,vscode,postman,pytorch,tensorflow&theme=dark" /> 
+<img src="https://skillicons.dev/icons?i=postgresql,docker,git,github,vscode,postman,pytorch,androidstudio&theme=dark" /> 
+
+### Application
+
+<img src="https://skillicons.dev/icons?i=blender,pr,raspberrypi,unity&theme=dark" /> 
 
 <!-- ### Workflow
 
