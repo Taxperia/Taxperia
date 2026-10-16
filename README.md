@@ -159,7 +159,7 @@ My work usually starts from a simple question: **"Can this annoying repeated tas
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white) -->
 
-<img src="https://skillicons.dev/icons?i=postgresql,docker,git,github,vscode,postman,pytorch,tensorflow&theme=dark" /> </div> <br> <div align="center"> <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ornek-kullanici&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" /> <br> <div align="center"> <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/> </div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
+<img src="https://skillicons.dev/icons?i=postgresql,docker,git,github,vscode,postman,pytorch,tensorflow&theme=dark" /> 
 
 ### Workflow
 
